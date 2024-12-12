@@ -1,0 +1,52 @@
+.toparea{
+    background:rgb(208, 70, 70);
+    padding: 10px 0;
+}
+.storyarea{
+    background:white;
+    padding: 10px 0;
+}
+.storyarea h3{
+    text-align: center;
+    margin-top: 50px;
+
+}
+.storyarea h1{
+    text-align: center;
+}
+.storyarea h1{
+    text-align:center;
+}
+.storyarea h2{
+    text-align: center;
+}
+.storyarea h2{
+    text-align: center;
+}
+.storyarea p{
+    text-align: center;
+}
+.footerarea{
+    background:black;
+    padding:20px 0;
+    text-align:center;
+    color:white;
+}
+.darkarea{
+    padding: 150px 0;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('hh.webp');
+    color:white
+}
+.darkarea h1{
+    text-align:center;
+
+}
+.slidarea{
+    padding: 100px 0;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('hero_slide_1.jpg');
+}
+    
+
+
+
+
