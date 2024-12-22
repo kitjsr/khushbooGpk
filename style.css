@@ -43,8 +43,46 @@
 }
 .slidarea{
     padding: 100px 0;
-    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('hero_slide_1.jpg');
+    /* background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('hero_slide_1.jpg'); */
 }
+.slidarea h3{
+    text-align: center;
+}
+.xyzarea{
+    /* padding: 500px 0; */
+    /* background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('hero_slide_1.jpg'); */
+}
+.titlearea{
+    background:white ;
+}
+.titlearea h1{
+    text-align: center;
+}
+.titlearea h3{
+    text-align: center;
+}
+.titlearea p{
+    text-align: center;
+}
+.titlearea h5{
+    text-align: center;
+}
+.parea{
+
+    background: white;
+}
+.parea h1{
+    text-align: center;
+
+}
+.parea p{
+    text-align: center;
+}
+.parea p{
+    text-align: center;
+}
+
+
     
 
 
